@@ -6,7 +6,7 @@ description: "Welcome to MSA. We provide a safe, legal, and non-judgmental
   share experiences, and find confidential peer support."
 layout: "Home page"
 button: "JOIN US"
-draft: true
+draft: false
 ---
 # Welcome to MSA
 
