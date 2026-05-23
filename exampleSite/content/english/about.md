@@ -1,48 +1,35 @@
 ---
-title: "About"
+title: "About MSA | Australian MAP Support Community"
 image: "images/about.jpg"
-description: "this is meta description"
-layout: "about"
-button: "read more"
-draft: false
+description: "MSA is a private, legal, and respectful Australian  Encrypted chat
+  community for Maps (minor attracted People) to connect, find peer support, and
+  reduce isolation."
+layout: "Welcome to MSA. We provide a safe, legal, and non-judgmental
+  environment for Maps (Minor-attracted People) across Australia to connect,
+  share experiences, and find confidential peer support."
+button: "How to Join"
+draft: true
 ---
+## About MSA
 
-## Hi,I’m Linda McCoy Specilized In Blog Writing And Collecting
+MSA is a dedicated, Australian-based chat community for minor-attracted people to connect, share experiences, and receive support. We operate entirely within the bounds of Australian law, providing a calm, respectful, and non-judgmental environment where members can speak openly, reduce isolation, and build healthy lives.
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level
-overviews. Iterative approaches to corporate strategy foster collaborative thinking to
-further the overall value proposition. Organically grow the holistic world view of
-disruptive innovation via workplace diversity and empowerment. 
+We mainly operate through a dedicated, encrypted private chat server online. Our chat spaces are focused on general conversation, peer support, and connection. Looking ahead, we also hope to carefully explore safe in-person meetups and social activities in the future.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of
-the day, going forward, a new normal that has evolved from generation X is on the
-runway heading towards a streamlined cloud solution. User generated content in real-time
-will have multiple touchpoints for offshoring.
+We are not an advocacy group. We welcome adults navigating legal issues, monitoring conditions, or registry requirements, and we place a high priority on member privacy and supporting anonymity within our spaces. Because of the nature of our discussions and to ensure a safe environment for everyone, MSA is strictly an 18+ community.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize
-scalable metrics whereas proactive e-services. Seamlessly empower fully researched
-growth strategies and interoperable internal or “organic” sources.
+## Community Expectations
 
-### Our Skill
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum.
+To ensure our server remains an organized, supportive, and safe environment for all members, we ask everyone to respect a few foundational guidelines:
 
-  * Poutine drinking vinegar bitters.
-  * Literally cred narwhal bitters wayfarers.
-  * justo duo dolores et ea rebum.
+* **Safety & Legality:** All members must follow Australian State and Federal laws at all times. We maintain a zero-tolerance policy for any illicit or explicit material, or the encouragement of harmful behaviors.
+* **Mutual Respect:** Treat everyone with kindness. Harassment, bullying, aggressive behavior, or discrimination (including racism and sexism) have no place here.
+* **Privacy & Discretion:** What is shared within our server stays within our server. Do not share logs, screenshots, or member identities externally.
+* **Server Organization:** Please keep conversations in their relevant channels and use only one account within the community.
+* **Staff Support:** Our team is here to keep the space running smoothly. If an issue arises, please follow staff direction and raise any concerns or feedback constructively and respectfully.
 
-{{< button "Read More" "#!" >}}
+## How to Join
 
+To maintain the security and privacy of our members, entry to our network is managed via email. If you are an adult seeking support and agree to our community guidelines, please reach out to us at [**Contact@mapsupportaus.com**](mailto:Contact@mapsupportaus.com).
 
-
-### Youtube
-{{< youtube g3-VxLQO7do >}}
-
-Credibly reintermediate backend ideas for cross-platform models. Continually
-reintermediate integrated processes through technically sound intellectual capital.
-Holistically foster superior methodologies without market-driven best practices.
-
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-
-business applications through revolutionary catalysts for change. Seamlessly underwhelm
-optimal testing procedures whereas bricks-and-clicks processes.
+A member of our team will reply with a few standard screening questions to complete the confidential onboarding process.
