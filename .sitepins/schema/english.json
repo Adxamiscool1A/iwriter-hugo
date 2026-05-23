@@ -1,0 +1,18 @@
+{
+  "file": "",
+  "name": "english",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "home_page",
+      "label": "home page",
+      "type": "string",
+      "value": "",
+      "description": "",
+      "isIgnored": false,
+      "isRequired": false,
+      "defaultValue": ""
+    }
+  ]
+}
