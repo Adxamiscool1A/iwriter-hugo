@@ -26,5 +26,5 @@ Our focus is entirely on Mutual respect, general connection, and supporting othe
 
 Ready to learn more or get in touch with our team? Use the links below to find exactly what you need.
 
-* **Learn More About Us**&#x20;_&#x20;`/about`&#x20;_
-* **Contact Us** &#x20;_&#x20;`/contact`&#x20;_
+* [_`learn more about us`_](/about)
+* [**Contact Us**  ](/contact) 
