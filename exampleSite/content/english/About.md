@@ -8,7 +8,7 @@ layout: "Welcome to MSA. We provide a safe, legal, and non-judgmental
   environment for Maps (Minor-attracted People) across Australia to connect,
   share experiences, and find confidential peer support."
 button: "JOIN US"
-draft: false
+draft: true
 ---
 ## About MSA
 
