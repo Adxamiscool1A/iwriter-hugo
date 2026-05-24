@@ -1,0 +1,51 @@
+$msa-bg: #0b1020;
+$msa-surface: #121a2f;
+$msa-border: #1f2a44;
+$msa-text: #e9efff;
+$msa-muted: #b9c3e0;
+$msa-accent: #4da3ff;
+
+:root {
+  --msa-bg: #{$msa-bg};
+  --msa-surface: #{$msa-surface};
+  --msa-border: #{$msa-border};
+  --msa-text: #{$msa-text};
+  --msa-muted: #{$msa-muted};
+  --msa-accent: #{$msa-accent};
+  color-scheme: dark;
+}
+
+body {
+  background: var(--msa-bg);
+  color: var(--msa-text);
+}
+
+a {
+  color: var(--msa-accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: lighten($msa-accent, 10%);
+  text-decoration: underline;
+}
+
+header,
+nav,
+footer {
+  background: var(--msa-surface);
+  border-color: var(--msa-border);
+  color: var(--msa-text);
+}
+
+input,
+textarea,
+select {
+  background: var(--msa-surface);
+  color: var(--msa-text);
+  border-color: var(--msa-border);
+}
+
+::selection {
+  background: rgba(77, 163, 255, 0.35);
+}
