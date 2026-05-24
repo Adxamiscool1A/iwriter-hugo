@@ -1,9 +1,8 @@
 ---
 title: "About MSA | Australian MAP Chat based Peer Support Community"
 image: "/images/Gemini_Generated_Image_q87nt4q87nt4q87n.png"
-description: "MSA is a private, legal, and respectful Australian  Encrypted chat
-  community for Maps (minor attracted People) to connect, and find peer
-  support."
+description: "MSA is a private, legal, and respectful Australian encrypted chat
+  community for MAPs (minor-attracted people) to connect and find peer support."
 layout: "about"
 button: "Contact Us"
 draft: true
