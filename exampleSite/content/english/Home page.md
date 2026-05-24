@@ -2,8 +2,8 @@
 title: "MSA Australia | Secure & Private Peer Support"
 image: "/images/Gemini_Generated_Image_q87nt4q87nt4q87n.png"
 description: "Welcome to MSA. We provide a safe, legal, and non-judgmental
-  environment for Maps (Minor-attracted People) across Australia to connect,
-  share experiences, and find confidential peer support."
+  environment for MAPs (minor-attracted people) across Australia to connect,
+  share experiences, and access peer support."
 layout: "Home page"
 button: "Contact Us"
 draft: true
