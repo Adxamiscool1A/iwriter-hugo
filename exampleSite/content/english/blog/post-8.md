@@ -1,5 +1,5 @@
 ---
-date: "28/06/2026"
+date: "date: 2026-05-27T00:00:00+10:00"
 title: "The 3:30 Commute - why MSA exist"
 image: "images/blog/01.jpg"
 categories:
