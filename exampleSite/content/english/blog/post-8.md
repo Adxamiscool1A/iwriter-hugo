@@ -36,6 +36,4 @@ While we mainly accommodate Australians, we may consider allowing others to join
 
 I hope MSA makes you feel welcome and understood. 
 
-​
-
 – With love Adam
