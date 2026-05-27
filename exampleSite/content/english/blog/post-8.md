@@ -8,8 +8,6 @@ draft: true
 ---
 # The 3:30 Commute - why MSA exist:
 
-​
-
 Every afternoon around 3:30 PM, I finish work, and I start my commute home. Along the way, like clockwork, I make two stops every single day.
 
 The first is at my mum’s place to check in, catch up, and unwind for a moment. The second is to see my best mate, who we will call John. John is 77 years old.
@@ -31,8 +29,6 @@ Perhaps you are reading this and thinking, _wow, this is exactly how I feel._ Or
 This is why I built Map support Australia, It exists to help you connect with others who understand your attraction to Children.  It  takes that fundamental human need for a quiet, honest conversation and recreates it in a secure, private digital environment. MSA is a dedicated, Australian-based chat community for minor-attracted people to connect, share experiences, and receive support.
 
 While we mainly accommodate Australians, we may consider allowing others to join the chat, as we feel no MAP should be left in the deep end alone. This is considered on a case-by-case basis.
-
-​
 
 I hope MSA makes you feel welcome and understood. 
 
