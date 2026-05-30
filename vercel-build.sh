@@ -17,5 +17,4 @@ chmod +x hugo
 export PATH="$PWD:$PATH"
 hugo version
 
-echo "Building Hugo site..."
-hugo --themesDir ../.. --gc --minify
+hugo --themesDir .. --gc --minify
