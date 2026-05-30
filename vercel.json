@@ -1,11 +1,4 @@
 {
-  "builds": [
-    {
-      "src": "vercel-build.sh",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "public"
-      }
-    }
-  ]
+  "buildCommand": "./vercel-build.sh",
+  "outputDirectory": "public"
 }
